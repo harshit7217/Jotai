@@ -5,7 +5,7 @@ import { atom, useAtom } from 'jotai';
 
 const counter = atom(0);
 const object = atom({
-  name: "Harshit",
+  name: "Harshen",
   age: 21
 })
 const arr = atom([1, 2, 3]);
